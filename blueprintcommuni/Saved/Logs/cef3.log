@@ -1,11 +1,5 @@
-[28116:30056:0330/135534.766:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[28116:30056:0330/135534.862:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[32376:32412:0330/135539.694:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B0C96D2242C4E2C5DE4704E83C4EA09D will be ignored
-[28116:30056:0330/135544.229:ERROR:device_event_log_impl.cc(196)] [13:55:44.215] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
-[5004:20516:0330/142514.689:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
-[5004:20516:0330/142514.689:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
-[5004:20516:0330/142514.690:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
-[5004:20516:0330/142514.690:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 2x2 (100% of ideal size)
-[5004:14244:0330/142514.757:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[5004:20516:0330/142515.208:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
-[28116:30056:0330/143822.412:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[17784:9700:0330/144331.985:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17784:9700:0330/144332.082:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30868:5208:0330/144335.685:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-10579099B40CE2CB10E08877D0064DA6 will be ignored
+[17784:9700:0330/144338.257:ERROR:device_event_log_impl.cc(196)] [14:43:38.242] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[17784:9700:0330/144748.157:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
