@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal/blueprintCommunication25/blueprintcommuni/Content/BP_GameModeWithScore.uasset",
+				"D:/unreal/blueprintCommunication25/blueprintcommuni/Content/BP_Collectable.uasset",
+				"D:/unreal/blueprintCommunication25/blueprintcommuni/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/QN/2KKDI5SL5HJNL83452XWSD.uasset",
+				"D:/unreal/blueprintCommunication25/blueprintcommuni/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/RH/ILNFPWM1J3LY66EU7JJFDD.uasset",
+				"D:/unreal/blueprintCommunication25/blueprintcommuni/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/VZ/UKQRXIKBMLC6W7HLY374DX.uasset",
+				"D:/unreal/blueprintCommunication25/blueprintcommuni/Content/ThirdPerson/Lvl_ThirdPerson.umap"
+			]
+		}
+	]
+}

@@ -1,0 +1,11 @@
+[12164:10548:0329/220757.905:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12164:10548:0329/220758.007:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8980:660:0329/220802.506:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BA4B98B166E8B00938835B6E876B4598 will be ignored
+[12164:7276:0329/220802.827:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[12164:10548:0329/220802.872:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[12164:10548:0329/220802.872:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[12164:10548:0329/220802.873:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[12164:10548:0329/220802.873:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[12164:7276:0329/220802.891:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[12164:10548:0329/220805.698:ERROR:device_event_log_impl.cc(196)] [22:08:05.691] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[12164:10548:0329/222345.366:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
